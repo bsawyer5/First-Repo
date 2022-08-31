@@ -11,3 +11,7 @@ What I *do* have is:
 1. A willingness to not waste tuition money.
 2. Finite but not altogether suboptimal intelligence.
 3. The ability to laugh when everything is collapsing around me, also known as hysteria.
+
+### After first commit
+
+Now to figure out pull requests.
