@@ -4,7 +4,13 @@ Getting familiar with Github
 ## About me
 
 I'm a first year BME Masters student, with a focus area of Artificial Intelligence in Medicine.
+
+For the last 2 years I've worked as a ~~ward monkey~~ medical doctor in the NHS, England.
+
 I have nearly no coding experience, and have not done advanced math in years, so this should be fun.
+
+`That's that British dry humour haha.`
+
 
 What I *do* have is:
 
